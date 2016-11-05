@@ -1,0 +1,17 @@
+{
+    "name": "rowbone/apidoc-for-laravel",
+    "description": "Apidoc for laravel",
+    "type": "plugin",
+    "authors": [
+        {
+            "name": "Rowbone",
+            "email": "234256555@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4": {
+            "Rowbone\\Apidoc\\": "src"
+        }
+    },
+}
